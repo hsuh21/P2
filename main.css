@@ -1,8 +1,17 @@
-body{}
+body{
+    margin: 5%;
+    word-break: break-all;
+}
 
 p{
     font-family: baskerville-urw, serif;
     font-weight: 500;
     font-style: normal;
-    text-align: justify;
+    margin: 0;
+    display: inline;
+}
+b{
+    font-family: baskerville-urw, serif;
+    font-weight: 700;
+    font-style: normal;
 }
