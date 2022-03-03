@@ -12,12 +12,12 @@ p{
 }
 b{
     font-family: baskerville-urw, serif;
-    font-weight: 700;
+    font-weight: 500;
     font-style: normal;
 }
 
 b:hover {
-    background-color: aqua;
+    font-weight: 700;
 }
 ::-webkit-scrollbar {
     display: none;
